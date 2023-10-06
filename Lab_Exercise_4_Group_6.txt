@@ -1,0 +1,14 @@
+Group 6 
+Ahmed Ali
+Anuphap Chansatit
+Chotiros Srisiam
+Halari Shanpru
+Karthikeyan Jeyabalasuntharam
+Nichapat Boonprasertsri
+Vitchaya Siripoppohn
+Yat Chit Law
+
+Lab Exercise 4
+
+1. 5 rows, 11 columns
+2. IDF of college is log(5) = 0.699, IDF of art is log(2.5) = 0.398
